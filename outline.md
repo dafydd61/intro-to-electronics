@@ -1,5 +1,7 @@
 # Intro to Electronics for Artists
 
+Artists working in audio or visual installation need to understand the fundamentals of electronics to take advantage of the incredible technology available to their practice. Learn everything you need to know about basic electronics in this hands-on course tailored specifically for working artists. Topics include: basic electronics theory, an introduction to circuit design and construction, resistors and transistors, coils and motors, and an overview of Arduino and sensors.
+
 ## Topics covered
 
 ### Basics of electronics
